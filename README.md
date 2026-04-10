@@ -62,3 +62,13 @@ quintal-da-vila/
 https://www.youtube.com/@GustavinhoDeveloper
 
 ## 📍 Nome | RA 
+Gustavo Posso Fernandes | RA: 2526101109
+Giovanna Rhormens Santos | RA:426108180
+Marcos Paulo Pinheiro da Silva | RA: 426100080
+Maria Isabel Afonso | RA:426106277
+Amélia Gertride Kiala | RA:426106184
+Lulia Lima Lopes | RA:426100080
+Lucas Carvalho de Lira |RA: 426103831
+Letícia de Paulo Silva |RA: 2526102352
+Madson Hipólito de Souza | RA:426108700
+Gustavo Teodoro do Nascimento | RA: 426103039
