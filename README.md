@@ -58,8 +58,8 @@ quintal-da-vila/
 - **Endereço:** Rua Rishin Matsuda, 712 — São Paulo, SP — CEP 04371-000
 - **WhatsApp:** (11) 95425-8578
 
-## 📍 Canal Do Projeto 
-https://www.youtube.com/@GustavinhoDeveloper
+## 📍 Canal Do Projeto, Video Do Projeto
+[https://www.youtube.com/@GustavinhoDeveloper](https://youtu.be/HzAwdN9bv-A?si=ES-Bm4EwOnTJHt0H)
 
 ## 📍 Nome | RA 
 Gustavo Posso Fernandes | RA: 2526101109
