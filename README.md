@@ -70,3 +70,9 @@ Lulia Lima Lopes | RA:426100080
 Lucas Carvalho de Lira |RA: 426103831
 Letícia de Paulo Silva |RA: 2526102352
 Gustavo Teodoro do Nascimento | RA: 426103039
+
+QRCODE DO VIDEO <img width="137" height="138" alt="0004ecab-4db2-4598-9eec-eed6d1dd522b" src="https://github.com/user-attachments/assets/04878631-f743-4f59-9e64-7c94dec43d0c" />
+
+QRCODE DO CARDAPIO <img width="93" height="88" alt="d37ba6f1-5aa6-4e7c-afa8-f69ea6253aa7" src="https://github.com/user-attachments/assets/62a3add2-68f8-4366-ac11-875fa811d1f9" />
+
+
