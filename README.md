@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="BANNER PROJETO" src="https://github.com/user-attachments/assets/437f8ab4-6750-4177-9f75-6b90bdbee009" />
+
 # 🍽️ Cardápio Digital — Quintal da Vila
 
 Site do cardápio digital do **Quintal da Vila Restaurante**, desenvolvido em HTML, CSS e JavaScript puro. Funciona sem nenhuma instalação — basta abrir o `index.html` no navegador ou publicar no GitHub Pages.
